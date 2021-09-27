@@ -3,3 +3,13 @@ h1 {
     left: center;
 
 }  
+
+#main{
+    color: black;
+    font-size: 20px;
+}
+
+.extra{
+    color: blue;
+    font: 30px;
+}
